@@ -1,3 +1,3 @@
 # Basic-Portfolio
-First portfolio assignment
-This is the recommended vs. easier version
+<p>First portfolio assignment</p>
+<p>This is the recommended vs. easier version</p>
